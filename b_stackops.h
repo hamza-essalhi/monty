@@ -1,5 +1,5 @@
-#ifndef SECOND_STACK_OPS_H
-#define SECOND_STACK_OPS_H
+#ifndef B_STACK_OPS_H
+#define B_STACK_OPS_H
 
 #include "a_stackops.h"
 

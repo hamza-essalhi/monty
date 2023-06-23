@@ -1,5 +1,5 @@
-#ifndef FIRST_STACK_OPS_H
-#define FIRST_STACK_OPS_H
+#ifndef A_STACK_OPS_H
+#define A_STACK_OPS_H
 
 #include "lists.h"
 
